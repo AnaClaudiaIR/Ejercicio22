@@ -1,0 +1,1 @@
+Mostrar un texto introducido en un campo al confirmar los datos mediante un diálogo en JavaFX.
